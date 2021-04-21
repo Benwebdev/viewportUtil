@@ -1,5 +1,14 @@
 # viewportUtil
 
+```javascript
+import viewportUtil from '@benline/viewportUtil';
+
+// or import what you want
+
+import { isTheElementInViewPort } from '@benline/viewportUtil'
+
+```
+
 ### isTheElementInViewPort()
 Tests a single element for visibility within the viewport.
 
